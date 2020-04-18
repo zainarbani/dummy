@@ -1,10 +1,18 @@
 {
  "device": "Redmi Note 9S Global",
- "url": "https://bigota.d.miui.com/V11.0.1.0.QJWMIXM/miui_CURTANAGlobal_V11.0.1.0.QJWMIXM_1bb6139eee_10.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.3.0.QJWMIXM/miui_CURTANAGlobal_V11.0.3.0.QJWMIXM_f4700f887b_10.0.zip"
 },
 {
  "device": "Redmi Note 9S India",
  "url": "https://bigota.d.miui.com/V11.0.4.0.QJWINXM/miui_CURTANAINGlobal_V11.0.4.0.QJWINXM_5c420fbe36_10.0.zip"
+},
+{
+ "device": "Redmi Note 9S RU",
+ "url": "https://bigota.d.miui.com/V11.0.1.0.QJWRUXM/miui_CURTANARUGlobal_V11.0.1.0.QJWRUXM_47c3e1382f_10.0.zip"
+},
+{
+ "device": "Redmi Note 9S EEA",
+ "url": "https://bigota.d.miui.com/V11.0.1.0.QJWEUXM/miui_CURTANAEEAGlobal_V11.0.1.0.QJWEUXM_473d5b5a93_10.0.zip"
 },
 {
  "device": "Mi Note 10 Global",
@@ -16,11 +24,11 @@
 },
 {
  "device": "Mi Note 10 RU",
- "url": "https://bigota.d.miui.com/V11.0.6.0.PFDRUXM/miui_TUCANARUGlobal_V11.0.6.0.PFDRUXM_f5b4a667c1_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.7.0.PFDRUXM/miui_TUCANARUGlobal_V11.0.7.0.PFDRUXM_444a131f5c_9.0.zip"
 },
 {
  "device": "Redmi 8A India",
- "url": "https://bigota.d.miui.com/V11.0.3.0.PCPINXM/miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.8.0.PCPINXM/miui_OLIVELITEINGlobal_V11.0.8.0.PCPINXM_82dd75bbf7_9.0.zip"
 },
 {
  "device": "Redmi 8A ID",
@@ -36,31 +44,31 @@
 },
 {
  "device": "Redmi 8A Global",
- "url": "https://bigota.d.miui.com/V11.0.3.0.PCPMIXM/miui_OLIVELITEGlobal_V11.0.3.0.PCPMIXM_1aa20d5b67_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.6.0.PCPMIXM/miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip"
 },
 {
  "device": "Redmi 8 India",
- "url": "https://bigota.d.miui.com/V11.0.8.0.PCNINXM/miui_OLIVEINGlobal_V11.0.8.0.PCNINXM_089d77e4b6_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.10.0.PCNINXM/miui_OLIVEINGlobal_V11.0.10.0.PCNINXM_30c0530d4e_9.0.zip"
 },
 {
  "device": "Redmi 8 ID",
- "url": "https://bigota.d.miui.com/V11.0.4.0.PCNIDXM/miui_OLIVEIDGlobal_V11.0.4.0.PCNIDXM_51d47d7eb9_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.5.0.PCNIDXM/miui_OLIVEIDGlobal_V11.0.5.0.PCNIDXM_a71f53ad0c_9.0.zip"
 },
 {
  "device": "Redmi 8 EEA",
- "url": "https://bigota.d.miui.com/V11.0.4.0.PCNEUXM/miui_OLIVEEEAGlobal_V11.0.4.0.PCNEUXM_81aaeb0b7b_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.6.0.PCNEUXM/miui_OLIVEEEAGlobal_V11.0.6.0.PCNEUXM_beb6960123_9.0.zip"
 },
 {
  "device": "Redmi 8 RU",
- "url": "https://bigota.d.miui.com/V11.0.4.0.PCNRUXM/miui_OLIVERUGlobal_V11.0.4.0.PCNRUXM_0ce96ab8ea_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.5.0.PCNRUXM/miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip"
 },
 {
  "device": "Redmi 8 Global",
- "url": "https://bigota.d.miui.com/V11.0.7.0.PCNMIXM/miui_OLIVEGlobal_V11.0.7.0.PCNMIXM_db1f5a40bb_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.10.0.PCNMIXM/miui_OLIVEGlobal_V11.0.10.0.PCNMIXM_3daae20692_9.0.zip"
 },
 {
  "device": "Redmi Note 8 Global",
- "url": "https://bigota.d.miui.com/V11.0.7.0.PCOMIXM/miui_GINKGOGlobal_V11.0.7.0.PCOMIXM_8b2a9f5dbe_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.8.0.PCOMIXM/miui_GINKGOGlobal_V11.0.8.0.PCOMIXM_f9fd10c076_9.0.zip"
 },
 {
  "device": "Redmi Note 8 Pro Global",
@@ -76,35 +84,35 @@
 },
 {
  "device": "Redmi Note 8T EEA",
- "url": "https://bigota.d.miui.com/V11.0.6.0.PCXEUXM/miui_WILLOWEEAGlobal_V11.0.6.0.PCXEUXM_6562ed09a3_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.7.0.PCXEUXM/miui_WILLOWEEAGlobal_V11.0.7.0.PCXEUXM_bcf2efc09e_9.0.zip"
 },
 {
  "device": "Redmi Note 8T Global",
- "url": "https://bigota.d.miui.com/V11.0.2.0.PCXMIXM/miui_WILLOWGlobal_V11.0.2.0.PCXMIXM_1053d07721_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.3.0.PCXMIXM/miui_WILLOWGlobal_V11.0.3.0.PCXMIXM_5f1d980a44_9.0.zip"
 },
 {
  "device": "Redmi Note 8T RU",
- "url": "https://bigota.d.miui.com/V11.0.2.0.PCXRUXM/miui_WILLOWRUGlobal_V11.0.2.0.PCXRUXM_480782e91b_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.3.0.PCXRUXM/miui_WILLOWRUGlobal_V11.0.3.0.PCXRUXM_f2b49cae2e_9.0.zip"
 },
 {
  "device": "Redmi Note 8 Indonesia",
- "url": "https://bigota.d.miui.com/V11.0.3.0.PCOIDXM/miui_GINKGOIDGlobal_V11.0.3.0.PCOIDXM_aaafd2cf3a_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.4.0.PCOIDXM/miui_GINKGOIDGlobal_V11.0.4.0.PCOIDXM_908d776882_9.0.zip"
 },
 {
  "device": "Redmi Note 8 India",
- "url": "https://bigota.d.miui.com/V11.0.3.0.PCOINXM/miui_GINKGOINGlobal_V11.0.3.0.PCOINXM_2b90bba954_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.4.0.PCOINXM/miui_GINKGOINGlobal_V11.0.4.0.PCOINXM_f7ab0c6402_9.0.zip"
 },
 {
  "device": "Mi 9 Lite/Mi CC 9 Global",
- "url": "https://bigota.d.miui.com/V11.3.4.0.PFCMIXM/miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.1.0.QFCMIXM/miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip"
 },
 {
  "device": "Mi 9 Lite/Mi CC 9 EEA",
- "url": "https://bigota.d.miui.com/V11.3.4.0.PFCEUXM/miui_PYXISEEAGlobal_V11.3.4.0.PFCEUXM_bd857626ef_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.1.0.QFCEUXM/miui_PYXISEEAGlobal_V11.0.1.0.QFCEUXM_ff6e40b4b4_10.0.zip"
 },
 {
  "device": "Mi 9 Lite/Mi CC 9 RU",
- "url": "https://bigota.d.miui.com/V11.3.5.0.PFCRUXM/miui_PYXISRUGlobal_V11.3.5.0.PFCRUXM_debc6b1086_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.1.0.QFCRUXM/miui_PYXISRUGlobal_V11.0.1.0.QFCRUXM_a8e12d669d_10.0.zip"
 },
 {
  "device": "Redmi K20 India",
@@ -124,7 +132,7 @@
 },
 {
  "device": "Mi 9 SE Global",
- "url": "https://bigota.d.miui.com/V11.0.6.0.PFBMIXM/miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.2.0.QFBMIXM/miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip"
 },
 {
  "device": "Mi 9 Russia",
@@ -132,7 +140,7 @@
 },
 {
  "device": "Mi 9 SE EEA",
- "url": "https://bigota.d.miui.com/V11.0.13.0.PFBEUXM/miui_GRUSEEAGlobal_V11.0.13.0.PFBEUXM_b22d201839_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.2.0.QFBEUXM/miui_GRUSEEAGlobal_V11.0.2.0.QFBEUXM_522065df4b_10.0.zip"
 },
 {
  "device": "Mi 9T Global",
@@ -144,7 +152,7 @@
 },
 {
  "device": "Mi 9T Russia",
- "url": "https://bigota.d.miui.com/V10.3.10.0.PFJRUXM/miui_DAVINCIRUGlobal_V10.3.10.0.PFJRUXM_0d0ae5a119_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.3.0.QFJRUXM/miui_DAVINCIRUGlobal_V11.0.3.0.QFJRUXM_01634861e7_10.0.zip"
 },
 {
  "device": "Mi 9T Pro Global",
@@ -168,11 +176,11 @@
 },
 {
  "device": "Redmi Note 7 Russia",
- "url": "https://bigota.d.miui.com/V11.0.4.0.PFGRUXM/miui_LAVENDERRUGlobal_V11.0.4.0.PFGRUXM_1cd225882c_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.7.0.PFGRUXM/miui_LAVENDERRUGlobal_V11.0.7.0.PFGRUXM_47369a8be4_9.0.zip"
 },
 {
  "device": "Redmi Note 7 EEA",
- "url": "https://bigota.d.miui.com/V11.0.4.0.PFGEUXM/miui_LAVENDEREEAGlobal_V11.0.4.0.PFGEUXM_09de63aa49_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.7.0.PFGEUXM/miui_LAVENDEREEAGlobal_V11.0.7.0.PFGEUXM_3b1ae2ea0f_9.0.zip"
 },
 {
  "device": "Redmi Note 7 Pro India",
@@ -184,7 +192,7 @@
 },
 {
  "device": "Redmi 7A EEA",
- "url": "https://bigota.d.miui.com/V11.0.14.0.PCMEUXM/miui_PINEEEAGlobal_V11.0.14.0.PCMEUXM_1d2d60ed95_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.18.0.PCMEUXM/miui_PINEEEAGlobal_V11.0.18.0.PCMEUXM_8762b039f2_9.0.zip"
 },
 {
  "device": "Redmi 7A RU",
@@ -200,11 +208,11 @@
 },
 {
  "device": "Redmi 7 Global",
- "url": "https://bigota.d.miui.com/V11.0.3.0.PFLMIXM/miui_ONCLITEGlobal_V11.0.3.0.PFLMIXM_b8059d3956_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.5.0.PFLMIXM/miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip"
 },
 {
  "device": "Redmi 7 EEA",
- "url": "https://bigota.d.miui.com/V11.0.4.0.PFLEUXM/miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.6.0.PFLEUXM/miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip"
 },
 {
  "device": "Mi MIX 3 Global",
@@ -236,11 +244,11 @@
 },
 {
  "device": "Mi MIX 2S Global",
- "url": "https://bigota.d.miui.com/V11.0.3.0.QDGMIXM/miui_MIMIX2SGlobal_V11.0.3.0.QDGMIXM_f076a2ced4_10.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.4.0.QDGMIXM/miui_MIMIX2SGlobal_V11.0.4.0.QDGMIXM_3ced5b0111_10.0.zip"
 },
 {
  "device": "Mi MIX 2S Russia",
- "url": "https://bigota.d.miui.com/V11.0.1.0.PDGRUXM/miui_MIMIX2SRUGlobal_V11.0.1.0.PDGRUXM_4e287514ae_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.1.0.QDGRUXM/miui_MIMIX2SRUGlobal_V11.0.1.0.QDGRUXM_22d96a0ed2_10.0.zip"
 },
 {
  "device": "Redmi Note 6 Pro Global",
@@ -272,7 +280,7 @@
 },
 {
  "device": "Redmi 6 Global",
- "url": "https://bigota.d.miui.com/V11.0.2.0.PCGMIXM/miui_HM6Global_V11.0.2.0.PCGMIXM_aa8d648fcd_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.3.0.PCGMIXM/miui_HM6Global_V11.0.3.0.PCGMIXM_44aaa9135d_9.0.zip"
 },
 {
  "device": "Redmi 6A Russia",
@@ -324,15 +332,15 @@
 },
 {
  "device": "Mi MIX 2 Global",
- "url": "https://bigota.d.miui.com/V11.0.3.0.PDEMIXM/miui_MIMIX2Global_V11.0.3.0.PDEMIXM_9445ac3638_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.6.0.PDEMIXM/miui_MIMIX2Global_V11.0.6.0.PDEMIXM_0805fdbc02_9.0.zip"
 },
 {
  "device": "Mi Max 3 Global",
- "url": "https://bigota.d.miui.com/V11.0.7.0.PEDMIXM/miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.1.0.QEDMIXM/miui_MIMAX3Global_V11.0.1.0.QEDMIXM_7b489a7719_10.0.zip"
 },
 {
  "device": "Mi Max 3 Russia",
- "url": "https://bigota.d.miui.com/V11.0.7.0.PEDRUXM/miui_NITROGENRUGlobal_V11.0.7.0.PEDRUXM_c7617d66a3_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.1.0.QEDRUXM/miui_NITROGENRUGlobal_V11.0.1.0.QEDRUXM_cb4b693722_10.0.zip"
 },
 {
  "device": "Mi A1",
@@ -400,7 +408,7 @@
 },
 {
  "device": "Mi 6 Global",
- "url": "https://bigota.d.miui.com/V11.0.3.0.PCAMIXM/miui_MI6Global_V11.0.3.0.PCAMIXM_bb4e6209e3_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.6.0.PCAMIXM/miui_MI6Global_V11.0.6.0.PCAMIXM_47fd8ee4ef_9.0.zip"
 },
 {
  "device": "Redmi Note 2 Global",
@@ -420,11 +428,11 @@
 },
 {
  "device": "Mi 8 Lite Global",
- "url": "https://bigota.d.miui.com/V11.0.8.0.PDTMIXM/miui_MI8LiteGlobal_V11.0.8.0.PDTMIXM_bb4de77c17_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.1.0.QDTMIXM/miui_MI8LiteGlobal_V11.0.1.0.QDTMIXM_2fb79ba67d_10.0.zip"
 },
 {
  "device": "Mi 8 Lite Russia",
- "url": "https://bigota.d.miui.com/V11.0.7.0.PDTRUXM/miui_PLATINARUGlobal_V11.0.7.0.PDTRUXM_10c8bdaeca_9.0.zip"
+ "url": "https://bigota.d.miui.com/V11.0.1.0.QDTRUXM/miui_PLATINARUGlobal_V11.0.1.0.QDTRUXM_11ad3a942e_10.0.zip"
 },
 {
  "device": "Mi 8 Pro Global",
@@ -504,7 +512,7 @@
 },
 {
  "device": "Mi Play China",
- "url": "https://bigota.d.miui.com/V11.0.5.0.OFICNXM/miui_MIPLAY_V11.0.5.0.OFICNXM_1460636b15_8.1.zip"
+ "url": "https://bigota.d.miui.com/V11.0.6.0.OFICNXM/miui_MIPLAY_V11.0.6.0.OFICNXM_cc8e5d1cf1_8.1.zip"
 },
 {
  "device": "Mi Play Global",

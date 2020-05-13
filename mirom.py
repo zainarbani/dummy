@@ -28,7 +28,7 @@ def miui(pid):
     res = get(url, params={"phone_id": pid}).json()
     for x in res["data"]["device_data"]["device_list"]:
         url = res["data"]["device_data"]["device_list"][f"{x}"]["stable_rom"]["rom_url"]
-        data.append({"phone": x, "url": {"global": url, "ru": url, "id": url}})
+        data.append({"phone": x, "url": url})
 
 
 def main():

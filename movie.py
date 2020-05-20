@@ -12,7 +12,7 @@ async def movie(movent):
         for y in imdb:
             b = get(url + "v1/imdb/" + y).json()
             text = (
-                f"**{b['Title']}**\n"
+                f"**{b['Title']}**\n\n"
                 f"**Rating:** {b['imdbRating']}\n"
                 f"**Genre:** {b['Genre']}\n"
                 f"**Production:** {b['Production']}\n"
@@ -22,10 +22,16 @@ async def movie(movent):
             poster = b["Poster"]
             data.append({"text": text, "poster": poster})
         for z in data:
-            poster = get(z["poster"]).content
-            open("poster.jpg", "wb").write(poster)
+            r = get(z["poster"], stream=True)
+            r.raw.decode_content = True
+            poster = Image.open(r.raw)
+            poster.thumbnail((360, 360), Image.ANTIALIAS)
+            poster.save("poster.jpg", "JPEG")
             await movent.client.send_file(
-                movent.chat_id, "poster.jpg", caption=z['text'], parse_mode="Markdown",
+                movent.chat_id,
+                "poster.jpg",
+                caption=z["text"],
+                parse_mode="Markdown",
             )
             os.remove("poster.jpg")
     else:

@@ -43,7 +43,11 @@ def main():
 
     devices = getId()
     for device in devices:
-        getOta(device)
+        if device["name"] in str(data):
+            pass
+        else:
+            print(f"Fetching update: {device['name']}...")
+            getOta(device)
 
     with open("bibo.json", "w") as fvck:
         dump(data, fvck, indent=4)

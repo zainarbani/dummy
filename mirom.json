@@ -57,7 +57,7 @@
   },
   {
     "phone": "Mi Note 10 Global",
-    "url": "https://bigota.d.miui.com/V11.0.9.0.PFDMIXM/miui_TUCANAGlobal_V11.0.9.0.PFDMIXM_f4aa3e3edc_9.0.zip"
+    "url": "https://bigota.d.miui.com/V11.1.2.0.QFDMIXM/miui_TUCANAGlobal_V11.1.2.0.QFDMIXM_3e27048d54_10.0.zip"
   },
   {
     "phone": "Mi Note 10 EEA",
@@ -253,7 +253,7 @@
   },
   {
     "phone": "Mi A3",
-    "url": "http://bigota.d.miui.com/V10.3.4.0.PFQMIXM/laurel_sprout_global_images_V10.3.4.0.PFQMIXM_20190815.0000.00_9.0_00838b4c0e.tgz   "
+    "url": "https://bigota.d.miui.com/V10.3.4.0.PFQMIXM/laurel_sprout_global_images_V10.3.4.0.PFQMIXM_20190815.0000.00_9.0_00838b4c0e.tgz   "
   },
   {
     "phone": "Redmi Y3 India",
@@ -321,7 +321,7 @@
   },
   {
     "phone": "Mi A2",
-    "url": "http://bigota.d.miui.com/V10.0.13.0.PDIMIXM/jasmine_global_images_V10.0.13.0.PDIMIXM_20190807.0000.00_9.0_9083804c9e.tgz"
+    "url": "https://bigota.d.miui.com/V10.0.13.0.PDIMIXM/jasmine_global_images_V10.0.13.0.PDIMIXM_20190807.0000.00_9.0_9083804c9e.tgz"
   },
   {
     "phone": "Redmi S2/Y2 Global",
@@ -389,7 +389,7 @@
   },
   {
     "phone": "Mi Max 3 Global",
-    "url": "https://bigota.d.miui.com/V11.0.1.0.QEDMIXM/miui_MIMAX3Global_V11.0.1.0.QEDMIXM_7b489a7719_10.0.zip"
+    "url": "https://bigota.d.miui.com/V11.0.2.0.QEDMIXM/miui_MIMAX3Global_V11.0.2.0.QEDMIXM_4eb86f33af_10.0.zip"
   },
   {
     "phone": "Mi Max 3 Russia",
@@ -493,7 +493,7 @@
   },
   {
     "phone": "Mi 8 Russia",
-    "url": "https://bigota.d.miui.com/V11.0.2.0.QEARUXM/miui_MI8RUGlobal_V11.0.2.0.QEARUXM_7e7f29c515_10.0.zip"
+    "url": "https://bigota.d.miui.com/V11.0.3.0.QEARUXM/miui_MI8RUGlobal_V11.0.3.0.QEARUXM_29d5c6ad28_10.0.zip"
   },
   {
     "phone": "Mi 8 Lite Global",
@@ -589,7 +589,7 @@
   },
   {
     "phone": "Mi A2 Lite",
-    "url": "https://bigota.d.miui.com/V10.0.13.0.PDLMIXM/daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz"
+    "url": "http://bigota.d.miui.com/V10.0.13.0.PDLMIXM/daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz"
   },
   {
     "phone": "Mi Note 3 Global",

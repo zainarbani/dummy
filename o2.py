@@ -24,6 +24,7 @@ def getOta(url, href, id):
         "rel": r["data"][0]["versionNo"],
         "date": dt(r["data"][0]["versionReleaseTime"]),
         "size": r["data"][0]["versionSize"],
+        "md5": r["data"][0]["versionSign"],
         "log": bs(r["data"][0]["versionLog"]),
         "url": r["data"][0]["versionLink"],
     }
@@ -33,6 +34,7 @@ def getOta(url, href, id):
             "rel": r["data"][1]["versionNo"],
             "date": dt(r["data"][1]["versionReleaseTime"]),
             "size": r["data"][1]["versionSize"],
+            "md5": r["data"][1]["versionSign"],
             "log": bs(r["data"][1]["versionLog"]),
             "url": r["data"][1]["versionLink"],
         }

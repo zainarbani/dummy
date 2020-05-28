@@ -46,12 +46,12 @@
             ],
             "beta": [
                 {
-                    "rel": "Open Beta 2",
-                    "date": "2020-03-25 09:46:05",
-                    "size": "2.57 GB",
-                    "md5": "432025b6a231b73891310e334ea6c529",
-                    "log": "System\u2022 Fixed the frame rate issue to\u00a0improve screen recording experience\u2022 Optimized the adaptive brightness feature\u2022 Fixed the random switch to Gboard while using SwiftKey or a 3rd party keyboard\u2022 Updated Android Security patch to 2020.03",
-                    "url": "https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.02_OTA_002_all_2003131007_c215b9ee9d454ac4.zip"
+                    "rel": "Open Beta 4",
+                    "date": "2020-05-28 14:09:44",
+                    "size": "2.58 GB",
+                    "md5": "41f4bb1b2be7ef5472fe3a2b8fdd8124",
+                    "log": "System\u00a0\n\u00a0\u2022 Fix the problem that some software voice input cannot be recognized\n\u00a0\u2022 Fix the problem of the disappearance of contacts in the address book on some devices\n\u00a0\u2022 More clock style options now available in ambient display\uff08Settings\u2014Customization\u2014Clock style\uff09\n\u00a0\u2022 Improved system stability and fixed general issues\n\u00a0\u2022 Updated Android Security Patch to 2020.05\n\n\u00a0Phone\n\u00a0\u2022 Now you can view call recording in call history ( Move to the call history, click the three-dot menu on the upper right to access the call recording\uff09",
+                    "url": "https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.04_OTA_004_all_2005122222_27df6e02a0c24e29.zip"
                 }
             ]
         }

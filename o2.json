@@ -71,12 +71,12 @@
             ],
             "beta": [
                 {
-                    "rel": "Open Beta 13",
-                    "date": "2020-05-22 18:17:09",
-                    "size": "2.14 GB",
-                    "md5": "f9ec37cc7205358f9392d27736312592",
-                    "log": "System\u00a0\u2022 Optimized the volume adjustment to improve user experience\u00a0\u2022 Added the missing recording icon in call screen\u00a0\u00a0\u2022 Updated Android security patch to 2020.04\u00a0\u2022 Fixed known issues and improved system stability\u00a0\u00a0Phone\u00a0\u2022 Added the ringing duration info for missed calls\u00a0\u2022 Now you can switch your mobile data on phone calls supported with VoLTE\u00a0\u00a0Camera\u00a0\u00a0\u2022 Added a feature which can now detect dirt on the camera lens, prompting a quick cleanup for better image and video quality \n\n ",
-                    "url": "https://oxygenos.oneplus.net/OnePlus7ProOxygen_13.W.33_OTA_033_all_2004291530_e2168d699ef14967.zip"
+                    "rel": "Open Beta 14",
+                    "date": "2020-05-28 09:36:57",
+                    "size": "2.13 GB",
+                    "md5": "d077424ca0d55098235364b35f32ace9",
+                    "log": "System\u2022 Fix the problem that some software voice input cannot be recognized\u2022 Fix the problem of the disappearance of contacts in the address book on some devices\u00a0\u2022 More clock style options now available in ambient display\uff08Settings\u2014Customization\u2014Clock style\uff09\u2022 Improved system stability and fixed general issues\u00a0\u2022\u00a0Updated Android Security Patch to 2020.05\u00a0\u00a0Phone\u00a0\u2022 Now you can view call recording in call history ( Move to the call history, click the three-dot menu on the upper right to access the call recording\uff09",
+                    "url": "https://oxygenos.oneplus.net/OnePlus7ProOxygen_13.W.35_OTA_035_all_2005122203_59ede4de290e484b.zip"
                 }
             ]
         }

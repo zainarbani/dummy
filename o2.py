@@ -15,8 +15,8 @@ def bs(x):
     return y.text
 
 
-def getOta(url, href, id):
-    files = {"storeCode": (None, "us"), "phoneCode": (None, id)}
+def getOta(id, url, href):
+    files = {"storeCode": (None, cid), "phoneCode": (None, id)}
     r = post(url + href, files=files).json()
     model = r["data"][0]["phoneName"]
     x = {"model": model, "data": {"stable": [], "beta": []}}
@@ -43,7 +43,7 @@ def getOta(url, href, id):
 
 
 def getId(url, href):
-    files = {"storeCode": (None, "us")}
+    files = {"storeCode": (None, cid)}
     r = post(url + href, files=files).json()
     pid = []
     for i in r["data"]:
@@ -56,18 +56,21 @@ def main():
         remove("o2.json")
     except OSError:
         pass
+        
+    if cid != "cn":
+        url = "https://www.oneplus.com/xman/send-in-repair/find-phone-"
+    else:
+    	url = "https://store.oneplus.com/xman/send-in-repair/find-phone-"
 
-    url = "https://www.oneplus.com/xman/send-in-repair/find-phone-"
-    href = "models"
-    pid = getId(url, href)
+    pid = getId(url, "models")
     for id in pid:
-        href = "systems"
-        getOta(url, href, id)
+        getOta(id, url, "systems")
 
-    with open("o2.json", "w") as fvck:
-        dump(data, fvck, indent=4)
+    with open("o2.json", "w") as f:
+        dump(data, f, indent=2)
 
 
 if __name__ == "__main__":
+    cid = "uk"
     data = []
     main()

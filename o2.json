@@ -1,15 +1,79 @@
 [
   {
+    "model": "OnePlus Nord N100",
+    "data": {
+      "stable": [
+        {
+          "rel": "10.5.5.BE83BA",
+          "date": "2020-12-31 08:38:12",
+          "size": "2.00 GB",
+          "md5": "d50d1c0a7d725eb601012a064a7f3501",
+          "log": "System\u00a0\u2022 Optimized system power consumption in some scenarios\u00a0\u2022 Added a quick setting switch to adjust mute, ringtone, and vibration\u00a0\u2022 Fixed a low probability call noise issue\u00a0\u2022 Updated Android Security Patch to 2020.12\u00a0Camera\u00a0\u2022 Improved the camera's shooting experience\u00a0Network\u00a0\u2022 Improve the stability of communication functions",
+          "url": "https://oxygenos.oneplus.net/OnePlusN100Oxygen_14.E.08_OTA_008_all_2012151227_edf41bd540d840f2.zip"
+        }
+      ],
+      "beta": []
+    }
+  },
+  {
+    "model": "OnePlus Nord N10",
+    "data": {
+      "stable": [
+        {
+          "rel": "10.5.8.BE89BA",
+          "date": "2020-12-21 07:37:12",
+          "size": "2.29 GB",
+          "md5": "03847a52e48eda122d6441759cd9750a",
+          "log": "System\u00a0\u2022 Optimized power consumption of the system\u00a0\u2022 Updated Android Security Patch to 2020.12\u00a0\u2022 Updated GMS package to 2020.09\u00a0\u2022 Improved system stability\u00a0Camera\u00a0\u2022 Improved the shooting experience with the camera\u00a0Network\u00a0\u2022 Improved connection stability of the mobile network to improve the experience",
+          "url": "https://oxygenos.oneplus.net/OnePlusN10Oxygen_14.E.07_OTA_007_all_2011210254_d65d1431c73a46dd.zip"
+        }
+      ],
+      "beta": []
+    }
+  },
+  {
+    "model": "OnePlus 8T",
+    "data": {
+      "stable": [
+        {
+          "rel": "11.0.4.5.KB05BA",
+          "date": "2020-11-26 16:00:00",
+          "size": "2.70 GB",
+          "md5": "01280940a45e96a154c7ebb2bd836e91",
+          "log": "System\u00a0\u2022 Increased the success rate when registering fingerprint and improved experience\u00a0\u2022 Optimized the media file scanning feature to make searching faster\u00a0\u2022 Further optimized system power consumption and increase battery life\u00a0\u2022 Fixed the issue that the app cache has not been deleted correctly after the app uninstalled\u00a0\u2022 Fixed the issue that the screen may flash when using fingerprint unlock\u00a0\u2022 Optimized system performance and improve stability\u00a0Camera\u00a0\u2022 Optimized camera white balance and improved imaging quality\u00a0Network\u00a0\u2022 Continuously optimize network connection stability and improved gaming experience\u00a0\u2022 Improve the stability of video calls",
+          "url": "https://oxygenos.oneplus.net/OnePlus8TOxygen_15.E.21_OTA_0210_all_2011132216_fa67c3fa5e954a52.zip"
+        }
+      ],
+      "beta": []
+    }
+  },
+  {
+    "model": "OnePlus Nord",
+    "data": {
+      "stable": [
+        {
+          "rel": "10.5.10.AC01BA",
+          "date": "2021-01-13 02:38:33",
+          "size": "2.45 GB",
+          "md5": "3a7759c1fc54885cf7d39b8269085343",
+          "log": "System\u00a0\u2022 Updated Android Security Patch to 2020.12\u00a0\u2022 Updated GMS package to 2020.09\u00a0\u2022 General bug fixes and improved stability",
+          "url": "https://oxygenos.oneplus.net/NordOxygen_14.E.12_OTA_012_all_2012212225_601cc73ea8cf4961.zip"
+        }
+      ],
+      "beta": []
+    }
+  },
+  {
     "model": "OnePlus 8 Pro",
     "data": {
       "stable": [
         {
-          "rel": "10.5.6.IN11BA",
-          "date": "2020-05-06 16:47:22",
-          "size": "2.28 GB",
-          "md5": "5a731c07ef417750b8ed909fac23bd5a",
-          "log": "System\u00a0\u00a0\u2022 Fixed known issues and improved system stability\u00a0\u00a0Camera\u00a0\u2022 Refined the dirt detection capability to be more accurate than ever\u00a0\u00a0\u2022 Improved the camera's shooting experience with the front camera\u00a0\u2022 Improved the stability\u00a0\u00a0Network\u00a0\u2022 Communication stability further enhanced",
-          "url": "https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.E.15_OTA_015_all_2004262102_26441cb23a134687.zip"
+          "rel": "11.0.2.2.IN11BA",
+          "date": "2020-12-07 09:14:49",
+          "size": "2.86 GB",
+          "md5": "7e5bd9fb6cf28af9b3b4783260722a07",
+          "log": "System\n\u00a0\u2022 Optimized the experience with a split-screen of apps\n\u00a0\u2022 Further optimized system power consumption and increase battery life\n\u00a0\u2022 Fixed the small probability issue that expanded screenshot may stop working\n\u00a0\u2022 Fixed the issue that cache is not deleted after uninstalling apps\n\u00a0\u2022 Fixed the issue that the screen may flash when using fingerprint unlock\n\u00a0\u2022 Fixed the issue that Horizon light is not activated normally\n\u00a0\u2022 Fixed the small probability issue that NFC can not be turned on\n\u00a0\u2022 Fixed the small probability issue that Parallel Apps can not be turned on\n\u00a0\u2022 Fixed the issue that Play Store could not install the app\n\u00a0\u2022 Updated Android security patch to 2020.11\n\n\u00a0Network\n\u00a0\u2022 Fixed the small probability issue that network interruption issue in some apps\n\u00a0\u2022 Improve the stability of communication functions",
+          "url": "https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.E.32_OTA_0320_all_2011190127_7f467f2302614f95.zip"
         }
       ],
       "beta": []
@@ -20,12 +84,12 @@
     "data": {
       "stable": [
         {
-          "rel": "10.5.4.IN21BA",
-          "date": "2020-05-06 17:45:44",
-          "size": "2.22 GB",
-          "md5": "de062fecdf63da5be10d54ea6bec28f8",
-          "log": "System\u00a0\u00a0\u2022 Fixed known issues and improved system stability\u00a0Camera\u00a0\u2022 Refined the dirt detection capability to be more accurate than ever\u00a0\u2022 Improved the camera's shooting experience with the front camera\u00a0\u2022 Improved the stability\u00a0",
-          "url": "https://oxygenos.oneplus.net/OnePlus8Oxygen_15.E.13_OTA_013_all_2004262108_315bd55a640043af.zip"
+          "rel": "11.0.2.2.IN21BA",
+          "date": "2020-12-07 09:21:21",
+          "size": "2.81 GB",
+          "md5": "8c6a0b406778f13e86812a15f2ddab64",
+          "log": "System\n\u00a0\u2022 Optimized the experience with a split-screen of apps\n\u00a0\u2022 Further optimized system power consumption and increase battery life\n\u00a0\u2022 Fixed the small probability issue that expanded screenshot may stop working\n\u00a0\u2022 Fixed the issue that cache is not deleted after uninstalling apps\n\u00a0\u2022 Fixed the issue that the screen may flash when using fingerprint unlock\n\u00a0\u2022 Fixed the issue that Horizon light is not activated normally\n\u00a0\u2022 Fixed the small probability issue that NFC can not be turned on\n\u00a0\u2022 Fixed the small probability issue that Parallel Apps can not be turned on\n\u00a0\u2022 Fixed the issue that Play Store could not install the app\n\u00a0\u2022 Updated Android security patch to 2020.11\n\n\u00a0Network\n\u00a0\u2022 Fixed the small probability issue that network interruption issue in some apps\n\u00a0\u2022 Improve the stability of communication functions",
+          "url": "https://oxygenos.oneplus.net/OnePlus8Oxygen_15.E.32_OTA_0320_all_2011190124_f13f98d12f3a4dd7.zip"
         }
       ],
       "beta": []
@@ -36,22 +100,22 @@
     "data": {
       "stable": [
         {
-          "rel": "10.0.5.HD01BA",
-          "date": "2020-02-15 11:38:03",
-          "size": "2.60GB",
-          "md5": "6ee29bd7684f6448e49210c8af48cab8",
-          "log": "System\u2022\u00a0Improved the launching speed of some apps\u2022 Optimized the RAM Management\u00a0\u2022\u00a0Optimized the black lines on\u00a0the screen while charging device\u2022 Optimized the black and white screen issues with some apps\u2022 Improved system stability and general bug fixes\u2022\u00a0Updated Android security patch to 2019.11Camera\u2022\u00a0Improved the photo\u00a0quality\u00a0",
-          "url": "https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.E.11_OTA_011_all_1912060058_9f74ffa647cf4557.zip"
+          "rel": "10.0.13.HD01BA",
+          "date": "2020-11-27 03:41:21",
+          "size": "2.62 GB",
+          "md5": "2db188fbde7aa55bad7405284e87f839",
+          "log": "System\n\u00a0\u2022 Optimized the user experience of the status bar in the call scene to reduce mis-touches\n\u00a0\u2022 Fixed small probability flashback issue with a Phone app\n\u00a0\u2022 Updated Android Security Patch to 2020.11\n\u00a0\u2022 Updated GMS package to 2020.08\n",
+          "url": "https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.E.21_OTA_021_all_2011052319_60e4bb52eba847fc.zip"
         }
       ],
       "beta": [
         {
-          "rel": "Open Beta 4",
-          "date": "2020-05-28 14:18:06",
-          "size": "2.63 GB",
-          "md5": "7a7f184deaf7a8d9ca49b32891756eaf",
-          "log": "System\u00a0\n\u00a0\u2022 Fix the problem that some software voice input cannot be recognized\n\u00a0\u2022 Fix the problem of the disappearance of contacts in the address book on some devices\n\u00a0\u2022 More clock style options now available in ambient display\uff08Settings\u2014Customization\u2014Clock style\uff09\n\u00a0\u2022 Improved system stability and fixed general issues\n\u00a0\u2022 Updated Android Security Patch to 2020.05\n\n\u00a0Phone\n\u00a0\u2022 Now you can view call recording in call history ( Move to the call history, click the three-dot menu on the upper right to access the call recording\uff09",
-          "url": "https://oxygenos.oneplus.net/OnePlus7TProOxygen_13.W.04_OTA_004_all_2005122234_6745923811404a93.zip"
+          "rel": "Open Beta 9",
+          "date": "2020-11-04 09:42:52",
+          "size": "2.77 GB",
+          "md5": "c4f6cc70c71e947ea943ba12537dc09d",
+          "log": "System\n\u00a0\u2022 Improved system stability and fixed general issues\n\u00a0\u2022 Updated Android Security Patch to 2020.10\n\n\u00a0Camera\n\u00a0\u2022 Fixed the flashback issue when switched to the front camera in particular cases",
+          "url": "https://oxygenos.oneplus.net/OnePlus7TProOxygen_13.W.09_OTA_009_all_2010191130_80341ab526be4194.zip"
         }
       ]
     }
@@ -61,22 +125,22 @@
     "data": {
       "stable": [
         {
-          "rel": "10.0.7.HD65",
-          "date": "2020-02-15 12:17:09",
-          "size": "2.54GB",
-          "md5": "66bf0f6271ab17b4c2577010f6706483",
-          "log": "System\u2022\u00a0Improved the launching speed of some apps\u2022 Optimized the RAM\u00a0Management\u00a0\u2022 Optimized the black and white screen issues with some apps\u2022 Improved system stability and general bug fixes\u2022\u00a0Updated Android security patch to 2019.11Camera\u2022\u00a0Improved the photo\u00a0quality\u00a0",
-          "url": "https://oxygenos.oneplus.net/OnePlus7TOxygen_14.E.09_OTA_009_all_1912060104_4c39aa3d31864234.zip"
+          "rel": "10.0.15.HD65BA",
+          "date": "2020-11-27 03:06:17",
+          "size": "2.57 GB",
+          "md5": "8c73d7faaf4763f916abd50519e454d7",
+          "log": "System\n\u00a0\u2022 Optimized the user experience of the status bar in the call scene to reduce mis-touches\n\u00a0\u2022 Fixed small probability flashback issue with a Phone app\n\u00a0\u2022 Updated Android Security Patch to 2020.11\n\u00a0\u2022 Updated GMS package to 2020.08\n",
+          "url": "https://oxygenos.oneplus.net/OnePlus7TOxygen_14.E.21_OTA_021_all_2011052316_a21feecdbed7451d.zip"
         }
       ],
       "beta": [
         {
-          "rel": "Open Beta 4",
-          "date": "2020-05-28 14:03:31",
-          "size": "2.57 GB",
-          "md5": "bdd425d227116bfc8d9a192c33ac01ed",
-          "log": "System\u00a0\n\u00a0\u2022 Fix the problem that some software voice input cannot be recognized\n\u00a0\u2022 Fix the problem of the disappearance of contacts in the address book on some devices\n\u00a0\u2022 More clock style options now available in ambient display\uff08Settings\u2014Customization\u2014Clock style\uff09\n\u00a0\u2022 Improved system stability and fixed general issues\n\u00a0\u2022 Updated Android Security Patch to 2020.05\n\n\u00a0Phone\n\u00a0\u2022 Now you can view call recording in call history ( Move to the call history, click the three-dot menu on the upper right to access the call recording\uff09",
-          "url": "https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.04_OTA_004_all_2005122222_98bbb184acb64f8c.zip"
+          "rel": "Open Beta 9",
+          "date": "2020-11-04 09:00:49",
+          "size": "2.67 GB",
+          "md5": "d57a0f0acf7c92907e9e4d99c9d3cbde",
+          "log": "System\n\u00a0\u2022 Improved system stability and fixed general issues\n\u00a0\u2022 Updated Android Security Patch to 2020.10\n\n\u00a0Camera\n\u00a0\u2022 Fixed the flashback issue when switched to the front camera in particular cases",
+          "url": "https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.09_OTA_009_all_2010191213_38c1fe16b8d14bce.zip"
         }
       ]
     }
@@ -86,22 +150,22 @@
     "data": {
       "stable": [
         {
-          "rel": "10.0.4.GM21BA",
-          "date": "2020-02-26 10:20:37",
-          "size": "2.01GB",
-          "md5": "27f5115c96036a1636070aeb776de822",
-          "log": "System\u2022\u00a0Optimized the RAM management\u00a0\u2022\u00a0Improved black/blank screen issues with some apps\u2022\u00a0Added the feature to support reminders for privacy alerts\u2022\u00a0Improved system stability and fixed general bugs\u2022\u00a0Updated Android security patch to 2019.12",
-          "url": "https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.E.24_OTA_024_all_2002022314_12cfa8192fee4cf5.zip"
+          "rel": "10.0.10.GM21BA",
+          "date": "2020-11-27 02:44:27",
+          "size": "2.03 GB",
+          "md5": "587da5bbfe719e06bbe60d6b0115f2d0",
+          "log": "System\n\u00a0\u2022 Optimized the user experience of the status bar in the call scene to reduce mis-touches\n\u00a0\u2022 Fixed small probability flashback issue with a Phone app\n\u00a0\u2022 Updated Android Security Patch to 2020.11\n\u00a0\u2022 Updated GMS package to 2020.08\n",
+          "url": "https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.E.31_OTA_031_all_2011052309_ce04356d7bed40f8.zip"
         }
       ],
       "beta": [
         {
-          "rel": "Open Beta 14",
-          "date": "2020-05-28 09:36:57",
-          "size": "2.13 GB",
-          "md5": "d077424ca0d55098235364b35f32ace9",
-          "log": "System\u00a0\u00a0\u2022 Fix the problem that some software voice input cannot be recognized\u00a0\u00a0\u2022 Fix the problem of the disappearance of contacts in the address book on some devices\u00a0\u00a0\u2022 More clock style options now available in ambient display\uff08Settings\u2014Customization\u2014Clock style\uff09\u00a0\u2022 Improved system stability and fixed general issues\u00a0\u2022 Updated Android Security Patch to 2020.05\u00a0\u00a0Phone\u00a0\u2022 Now you can view call recording in call history ( Move to the call history, click the three-dot menu on the upper right to access the call recording\uff09",
-          "url": "https://oxygenos.oneplus.net/OnePlus7ProOxygen_13.W.35_OTA_035_all_2005122203_59ede4de290e484b.zip"
+          "rel": "Open Beta 19",
+          "date": "2020-11-04 08:59:52",
+          "size": "2.23 GB",
+          "md5": "41c7ff680da3487b87f9d4f2912547fe",
+          "log": "System\n\u00a0\u2022 Improved system stability and fixed general issues\n\u00a0\u2022 Updated Android Security Patch to 2020.10\n\n\u00a0Camera\n\u00a0\u2022 Fixed the flashback issue when switched to the front camera in particular cases",
+          "url": "https://oxygenos.oneplus.net/OnePlus7ProOxygen_13.W.45_OTA_045_all_2010191035_fde4ca8ebd8f4cfc.zip"
         }
       ]
     }
@@ -111,22 +175,22 @@
     "data": {
       "stable": [
         {
-          "rel": "10.0.4.GM57BA",
-          "date": "2020-02-26 09:58:07",
-          "size": "1.99GB",
-          "md5": "e4e78bb895325f34587c4bbae4a4f543",
-          "log": "System\u2022\u00a0Optimized the RAM management\u00a0\u2022\u00a0Improved black/blank screen issues with some apps\u2022\u00a0Added the feature to support reminders for privacy alerts\u2022\u00a0Improved system stability and fixed general bugs\u2022\u00a0Updated Android security patch to 2019.12",
-          "url": "https://oxygenos.oneplus.net/OnePlus7Oxygen_14.E.24_OTA_024_all_2002022317_d5a80338a38b44de.zip"
+          "rel": "10.0.10.GM57BA",
+          "date": "2020-11-27 02:37:13",
+          "size": "2.01 GB",
+          "md5": "d77bdec7eea73606b1bc18fa669bc7c3",
+          "log": "System\n\u00a0\u2022 Optimized the user experience of the status bar in the call scene to reduce mis-touches\n\u00a0\u2022 Fixed small probability flashback issue with a Phone app\n\u00a0\u2022 Updated Android Security Patch to 2020.11\n\u00a0\u2022 Updated GMS package to 2020.08\n\n",
+          "url": "https://oxygenos.oneplus.net/OnePlus7Oxygen_14.E.31_OTA_031_all_2011052315_3356edf802dc42ef.zip"
         }
       ],
       "beta": [
         {
-          "rel": "Open Beta 14",
-          "date": "2020-05-28 09:47:23",
-          "size": "2.11GB",
-          "md5": "ff7de1046e557ae1598c7a93d165ca57",
-          "log": "System\u00a0\n\u00a0\u2022 Fix the problem that some software voice input cannot be recognized\u00a0\n\u00a0\u2022 Fix the problem of the disappearance of contacts in the address book on some devices\u00a0\n\u00a0\u2022 More clock style options now available in ambient display\uff08Settings\u2014Customization\u2014Clock style\uff09\n\u00a0\u2022 Improved system stability and fixed general issues\n\u00a0\u2022 Updated Android Security Patch to 2020.05\u00a0\n\n\u00a0Phone\n\u00a0\u2022 Now you can view call recording in call history ( Move to the call history, click the three-dot menu on the upper right to access the call recording\uff09",
-          "url": "https://oxygenos.oneplus.net/OnePlus7Oxygen_13.W.35_OTA_035_all_2005122211_188f9a30d7a249fa.zip"
+          "rel": "Open Beta 19",
+          "date": "2020-11-04 08:57:57",
+          "size": "2.21 GB",
+          "md5": "d8cc1d6f9ca911f3c10ab16b43a86de2",
+          "log": "System\u00a0\u2022 Improved system stability and fixed general issues\u00a0\u2022 Updated Android Security Patch to 2020.10\u00a0Camera\u00a0\u2022 Fixed the flashback issue when switched to the front camera in particular cases",
+          "url": "https://oxygenos.oneplus.net/OnePlus7Oxygen_13.W.45_OTA_045_all_2010191035_acb4f0b381c542a7.zip"
         }
       ]
     }
@@ -136,18 +200,18 @@
     "data": {
       "stable": [
         {
-          "rel": "10.3.3",
-          "date": "2020-05-18 13:50:21",
-          "size": "1.83 GB",
-          "md5": "f20ca79091cfc6c0a680692b0dbc38fa",
-          "log": "System updates\u00a0\u00a0\u2022 Fixed the issue with a black screen randomly appearing while playing games\u00a0\u00a0\u2022 Updated GMS package to 2020.02\u00a0\u2022 Updated Android Security Patch to 2020.04\u00a0\u2022 Improved system stability and fixed general bugs\u00a0\u00a0Network updates\u00a0\u00a0\u2022 Integrated VoLTE & VoWifi support for Telenor-Denmark\u00a0\u2022 Integrated VoWifi support for RJIO - India\u00a0\u00a0Phone updates \uff08India only\uff09\u00a0\u2022 Newly added OpSports feature in the shelf\u00a0\u00a0\u2022 Added OnePlus Roaming feature: choose a plan without worrying about the SIM card while travelling\u00a0\u00a0Cloud Sync updates \uff08India only\uff09\u00a0\u2022 Updated the CloudService to Version 2.0",
-          "url": "https://oxygenos.oneplus.net/OnePlus6TOxygen_34_OTA_045_all_2004142152_09a6b6789a7843e6.zip"
+          "rel": "10.3.7",
+          "date": "2020-12-11 02:39:39",
+          "size": "1.85 GB",
+          "md5": "3d7c020bd0fb67894bc1c23f67c8eb72",
+          "log": "System updates\n\u00a0\u2022 Newly added \"Hide silent notifications in status bar\" feature to filter unimportant notifications, making the app notification management easier( Route: Settings>Apps & Notifications> Notifications> Advanced> Hide silent notifications in the status bar )\u00a0\u2022 Fixed the small probability issue that Screenshot may fail\u00a0\u2022 Updated Android Security Patch to 2020.11\u00a0\u2022 Improved system stability and fixed general bugs\u00a0Game Space\u00a0\u2022 Newly added gaming tools box for convenient switches of Fnatic mode. You can now choose three ways of notifications: text-only heads up and block, just for your immersive gaming experience\u00a0\u2022 Newly added quick reply feature in a small window for WhatsApp and INS (Enable it by swiping down from upper right/left corners of the screen in gaming mode)\u00a0\u2022 Newly added mis-touch prevention feature. Enable it, swipe down from the top of the screen, click and the notification bar will pop out\n\n",
+          "url": "https://oxygenos.oneplus.net/OnePlus6TOxygen_34.J.49_OTA_049_all_2011161944_66389b3dfed64c84.zip"
         }
       ],
       "beta": [
         {
           "rel": "Open Beta 5\uff08Android 10\uff09",
-          "date": "2020-02-28 10:58:33",
+          "date": "2020-02-28 03:58:33",
           "size": "1.85GB",
           "md5": "8031c081f2efb4102432cf71a357a942",
           "log": "System\u2022 Fixed and removed white bar below the keyboard\u2022\u00a0Fixed the issue with app crashes during installing and updating\u2022 Improved system stability and fixed general bugs\u2022 Updated\u00a0Android\u00a0security\u00a0patch\u00a0to\u00a02020.02Phone\u2022 Optimized the one-handed mode experience in the Phone app\u2022 Fixed the issue with the duplication of contacts\u00a0Zen Mode V1.5.0\u2022 Improved OnePlus Account login for synchronization of badges and user's data",
@@ -161,18 +225,18 @@
     "data": {
       "stable": [
         {
-          "rel": "10.3.3",
-          "date": "2020-05-18 13:59:00",
-          "size": "1.73 GB",
-          "md5": "ae9ec3b1a708c30117b9be35c9f8b42f",
-          "log": "System updates\u00a0\u2022 Fixed the issue with a black screen randomly appearing while playing games\u00a0\u00a0\u2022 Updated GMS package to 2020.02\n\n\u2022 Updated Android Security Patch to 2020.04\u00a0\n\u2022 Improved system stability and fixed general bugs\u00a0Network updates\u00a0\u00a0\u2022 Integrated VoLTE & VoWifi support for Telenor-Denmark\u00a0\u00a0\u2022 Integrated VoWifi support for RJIO - India\u00a0\u00a0Phone updates \uff08India only\uff09\u00a0\u2022 Newly added OpSports feature in the shelf\u00a0\u2022 Added OnePlus Roaming feature: choose a plan without worrying about the SIM card while travelling\u00a0Cloud Sync updates \uff08India only\uff09\u00a0\u2022 Updated the CloudService to Version 2.0",
-          "url": "https://oxygenos.oneplus.net/OnePlus6Oxygen_22_OTA_045_all_2004142201_bdd6fdc6b6b1477f.zip"
+          "rel": "10.3.7",
+          "date": "2020-12-11 02:50:51",
+          "size": "1.76 GB",
+          "md5": "74e8f5a4439516aac04ce8c94fb9427a",
+          "log": "System updates\n\u00a0\u2022 Newly added \"Hide silent notifications in status bar\" feature to filter unimportant notifications, making the app notification management easier( Route: Settings>Apps & Notifications> Notifications> Advanced> Hide silent notifications in the status bar )\n\u00a0\u2022 Fixed the small probability issue that Screenshot may fail\n\u00a0\u2022 Updated Android Security Patch to 2020.11\n\u00a0\u2022 Improved system stability and fixed general bugs\n\n\u00a0Game Space\n\u00a0\u2022 Newly added gaming tools box for convenient switches of Fnatic mode. You can now choose three ways of notifications: text-only heads up and block, just for your immersive gaming experience\n\u00a0\u2022 Newly added quick reply feature in a small window for WhatsApp and INS (Enable it by swiping down from upper right/left corners of the screen in gaming mode)\n\u00a0\u2022 Newly added mis-touch prevention feature. Enable it, swipe down from the top of the screen, click and the notification bar will pop out\n\n",
+          "url": "https://oxygenos.oneplus.net/OnePlus6Oxygen_22.J.49_OTA_049_all_2011161942_43384717ffec439b.zip"
         }
       ],
       "beta": [
         {
           "rel": "Open Beta 5(Android  10)",
-          "date": "2020-02-28 15:10:25",
+          "date": "2020-02-28 08:10:25",
           "size": "1.75 GB",
           "md5": "c43cc13372cfc7b042984a651b4b6bfc",
           "log": "System\u2022 Fixed and removed white bar below the keyboard\u2022\u00a0Fixed the issue with app crashes during installing and updating\u2022 Improved system stability and fixed general bugs\u2022 Updated\u00a0Android\u00a0security\u00a0patch\u00a0to\u00a02020.02Phone\u2022 Optimized the one-handed mode experience in the Phone app\u2022 Fixed the issue with the duplication of contacts\u00a0Zen Mode V1.5.0\u2022 Improved OnePlus Account login for synchronization of badges and user's data",
@@ -186,18 +250,18 @@
     "data": {
       "stable": [
         {
-          "rel": "9.0.11",
-          "date": "2020-03-16 16:48:14",
-          "size": "1.800GB",
-          "md5": "d424170b3a280b3aefa16ae39321928b",
-          "log": "System\u2022\u00a0Updated Android security patch to 2020.02\u2022\u00a0Improved system stability and fixed general bugs",
-          "url": "https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_054_all_2002242025_81ae0ff9d1c34a3f.zip"
+          "rel": "10.0.0",
+          "date": "2020-06-29 09:48:14",
+          "size": "1.83 GB",
+          "md5": "5cd5d2dbfd938ece3ad2ce37a1d5b8b0",
+          "log": "System\n\u00a0 \u2022 Optimize the time of the first major version OTA upgrade\n\n\n",
+          "url": "https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_068_all_2006012227_f63ba0f8b46a4c4a.zip"
         }
       ],
       "beta": [
         {
           "rel": "Open Beta 33",
-          "date": "2019-07-27 23:00:00",
+          "date": "2019-07-27 16:00:00",
           "size": "1.83 GB",
           "md5": "b62ca2d674c944628376876ccd6cce89",
           "log": "System\u00a0\u2022 General bug fixes and stability improvementsWeather\u00a0\u2022 Improved scrolling experience for switching between pages\u2022\u00a0Weather cards for multiple cities can now be rearranged or deleted by tapping and holding on them\u2022\u00a0Optimized user experience by allowing you to use this app while app permission to access GPS location is disabledPhone\u00a0\u2022\u00a0Improved animation effects when switching between pages\u2022 Improved experience with searching for contacts\u2022 Optimized Quick Responses for declined calls and supported editing Quick ResponsesZen Mode\u2022 Added Zen Mode helping you keep away from the screen and back to life for 20 minutes",
@@ -211,18 +275,18 @@
     "data": {
       "stable": [
         {
-          "rel": "9.0.11",
-          "date": "2020-03-16 16:41:38",
-          "size": "1.79 GB",
-          "md5": "00f5285e3b2ba24b638fae23db3a9d3a",
-          "log": "System\u2022\u00a0Updated Android security patch to 2020.02\u2022\u00a0Improved system stability and fixed general bugs",
-          "url": "https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_054_all_2002242016_1fd6cbd4606e44cf.zip"
+          "rel": "10.0.0",
+          "date": "2020-06-29 09:41:38",
+          "size": "1.82 GB",
+          "md5": "51a0dd530d90b81182d7cf27a3788afd",
+          "log": "System\n\u00a0 \u2022 Optimize the time of the first major version OTA upgrade\u00a0 \u2022\u00a0Fix the problem that the invalid function of the three-segment volume key\n\n\n\n\n\n",
+          "url": "https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_068_all_2006012224_f14cb766f9c94108.zip"
         }
       ],
       "beta": [
         {
           "rel": "Open Beta 35",
-          "date": "2019-06-27 23:00:00",
+          "date": "2019-06-27 16:00:00",
           "size": "1.83 GB",
           "md5": "e4cfe12b8ac3cabc02cc28794ccc5d07",
           "log": "System\u00a0\u2022 General bug fixes and stability improvementsWeather\u00a0\u2022 Improved scrolling experience for switching between pages\u2022\u00a0Weather cards for multiple cities can now be rearranged or deleted by tapping and holding on them\u2022\u00a0Optimized user experience by allowing you to use this app while app permission to access GPS location is disabledPhone\u00a0\u2022\u00a0Improved animation effects when switching between pages\u2022 Improved experience with searching for contacts\u2022 Optimized Quick Responses for declined calls and supported editing Quick ResponsesZen Mode\u2022 Added Zen Mode helping you keep away from the screen and back to life for 20 minutes",
@@ -237,7 +301,7 @@
       "stable": [
         {
           "rel": "9.0.6",
-          "date": "2019-11-29 09:06:44",
+          "date": "2019-11-29 02:06:44",
           "size": "1.52GB",
           "md5": "e4e46aa9eebffdd485071383dcda4218",
           "log": "System\u2022\u00a0Updated Android security patch to 2019.10\u2022 Updated GMS apps\u2022 General bug fixes and improvements",
@@ -247,7 +311,7 @@
       "beta": [
         {
           "rel": "Open Beta 30",
-          "date": "2018-07-09 23:00:00",
+          "date": "2018-07-09 16:00:00",
           "size": "1.54 GB",
           "md5": "39bf57dcf59e60351533a4f39265a5b7",
           "log": "\u00a0Launcher\u2022 Improved search tags in app drawer Added \u201cNew installs\u201d category tag in app drawer Improved app list for hidden space and toolbox Camera\u2022 Optimized switching between front and rear camera Multimedia\u2022 Supported seeking through timeline for AAC audio files",
@@ -262,7 +326,7 @@
       "stable": [
         {
           "rel": "9.0.6",
-          "date": "2019-11-29 09:10:58",
+          "date": "2019-11-29 02:10:58",
           "size": "1.52GB",
           "md5": "7c2a1e83ac1a83a3ceb287983496549b",
           "log": "System\u2022\u00a0Updated Android security patch to 2019.10\u2022 Updated GMS apps\u2022 General bug fixes and improvements",
@@ -272,7 +336,7 @@
       "beta": [
         {
           "rel": "Open Beta 39",
-          "date": "2018-07-09 23:00:00",
+          "date": "2018-07-09 16:00:00",
           "size": "1.54 GB",
           "md5": "9b1835bb4395a027af265ffbcd00491e",
           "log": "System\u2022 Updated Android security patch to 2018.7 Camera\u2022 Improved image quality for the front camera Fixed manual ISO setting issue of 3rd party camera apps Third-Party Apps\u2022 Fixed parallel WhatsApp crash issue\u2022 Fixed front camera zoom in issues for Snapchat\u200b",
@@ -287,7 +351,7 @@
       "stable": [
         {
           "rel": "3.1.4",
-          "date": "2016-10-09 23:00:00",
+          "date": "2016-10-09 16:00:00",
           "size": "0.78 GB",
           "md5": "6933a61ba55c18a977117c71c972c94a",
           "log": "System\u2022 Updated Android security patch to 2018.7 Camera\u2022 Improved image quality for the front camera Fixed manual ISO setting issue of 3rd party camera apps Third-Party Apps\u2022 Fixed parallel WhatsApp crash issue\u2022 Fixed front camera zoom in issues for Snapchat",
@@ -303,7 +367,7 @@
       "stable": [
         {
           "rel": "3.6.1",
-          "date": "2017-10-29 23:00:00",
+          "date": "2017-10-29 16:00:00",
           "size": "1.19 GB",
           "md5": "031294228f1642e983c91042961dfce0",
           "log": "System\u2022 Updated Android security patch to 2018.7 Camera\u2022 Improved image quality for the front camera Fixed manual ISO setting issue of 3rd party camera apps Third-Party Apps\u2022 Fixed parallel WhatsApp crash issue\u2022 Fixed front camera zoom in issues for Snapchat",
@@ -319,7 +383,7 @@
       "stable": [
         {
           "rel": "2.1.4",
-          "date": "2016-10-09 23:00:00",
+          "date": "2016-10-09 16:00:00",
           "size": "1.98 GB",
           "md5": "6712ce16816c38c22250203205fa8652",
           "log": "\u00a0System\u2022 Updated Android security patch to 2018.7 Camera\u2022 Improved image quality for the front camera Fixed manual ISO setting issue of 3rd party camera apps Third-Party Apps\u2022 Fixed parallel WhatsApp crash issue\u2022 Fixed front camera zoom in issues for Snapchat",

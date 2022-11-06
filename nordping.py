@@ -7,7 +7,7 @@ from requests import get
 
 
 def ping_host(hosts):
-    avg = 100
+    avg = 1000
     best = {}
     for host in hosts:
         try:
@@ -31,7 +31,7 @@ def get_host(srv_url, country):
         print("\nPlease wait... ")
         hosts = []
         for idx, i in enumerate(res.json()):
-            if i["locations"][0]["country"]["name"].lower() == country:
+            if i["locations"][0]["country"]["code"].lower() == country:
                 hosts.append({"idx": idx, "host": i["hostname"]})
         bidx = ping_host(hosts)
         pub_key = ""
